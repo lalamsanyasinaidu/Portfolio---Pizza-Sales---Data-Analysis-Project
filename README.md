@@ -37,7 +37,7 @@ marketing strategies, and overall customer satisfaction.
 
 **Business Optimization:**
 
-**Sales Performance Tracking: ** Businesses can monitor the performance of different pizza categories, sizes, and individual products to identify top performers and underperformers.
+**Sales Performance Tracking:** Businesses can monitor the performance of different pizza categories, sizes, and individual products to identify top performers and underperformers.
 
 **Customer Insights:** Understanding customer preferences and peak purchasing times helps in tailoring marketing campaigns and promotions.
 
