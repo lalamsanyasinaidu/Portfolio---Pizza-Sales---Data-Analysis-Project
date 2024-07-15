@@ -1,4 +1,5 @@
 **Pizza Sales Data Analysis Project**
+
 **Project Description**
 This project involves the comprehensive analysis of pizza sales data to derive actionable insights and visualize key trends. 
 By leveraging tools like Excel, SQL, and Power BI, we aim to understand the performance metrics of various pizza products, 
@@ -6,7 +7,10 @@ customer purchasing patterns, and sales distribution across different dimensions
 The analysis provides a foundation for data-driven decision-making, helping businesses optimize their offerings, 
 marketing strategies, and overall customer satisfaction.
 
+
+
 **Tools and Skills**
+
 **Tools Used:**
 Excel: For data cleaning, organization, and initial analysis.
 SQL: For querying the database to extract specific insights.
